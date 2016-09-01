@@ -1,3 +1,4 @@
 line test 01
 line test 02
 line test 06
+line test 06
